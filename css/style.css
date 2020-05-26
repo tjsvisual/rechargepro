@@ -2227,6 +2227,11 @@ TRANSACTION DETAILS STYLING
   margin-left: 3rem;
 }
 
+.swal-modal{
+  z-index: 200000;
+  position: absolute;
+}
+
 /* ===================================
    END OF   Wallet to bank modal
 =================================== */
